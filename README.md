@@ -6,7 +6,9 @@
 
 ### For More  
 <p align="left">  
-<a href="https://bento.me/yemce" target="_blank"></a>  
+  <a href="https://bento.me/yemce" target="_blank">bento.me/yemce</a>  
+</p>
+
 </p>
 
 <br>
