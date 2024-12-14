@@ -4,10 +4,9 @@
 # 💫 About Me:
 🔭 I’m currently working on AI & ML<br>🌱 I’m currently learning NLP-LLM & MLOPS<br> - 📫 How to reach me **celikyemree@gmail.com**
 
-### For More  
+#### For More  
 <p align="left">  
   <a href="https://bento.me/yemce" target="_blank">bento.me/yemce</a>  
-</p>
 
 </p>
 
