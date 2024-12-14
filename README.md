@@ -3,6 +3,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on AI & ML<br>🌱 I’m currently learning NLP-LLM & MLOPS<br> 📫 How to reach me **celikyemree@gmail.com** <br>
+![image](https://github.com/user-attachments/assets/c599f420-39d4-4f7a-a38d-a47948cf9388)
 For More: [bento.me/yemce](https://bento.me/yemce)
 
 
