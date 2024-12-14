@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on AI & ML<br>🌱 I’m currently learning NLP-LLM & MLOPS<br> - 📫 How to reach me **celikyemree@gmail.com**
 
-# For More
+### For More
 <p align="left"> <a href="https://bento.me/yemce" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/bento-me-alt.svg" alt="bento.me/yemce" height="30" width="40" /></a> </p>
 <br>
 
