@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on AI & ML<br>
 🌱 I’m currently learning NLP-LLM & MLOPS<br>
-🌐 I have full stack web development experience
+🌐 I have full stack web development experience <br>
 📫 How to reach me **celikyemree@gmail.com** <br>
 🔍 For More: [bento.me/yemce](https://bento.me/yemce)
 
