@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Çelik</h1>
 <h3 align="center">A passionate AI&ML developer</h3>
 
-- 🌱 I’m currently learning **NLP-LLM & MLOPS**
+🔭 I’m currently working on AI & ML<br>🌱 I’m currently learning NLP-LLM & MLOPS<br>
 
 - 📫 How to reach me **celikyemree@gmail.com**
 
