@@ -2,7 +2,7 @@
 <h3 align="left">A passionate AI&ML developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on AI & ML<br>🌱 I’m currently learning NLP-LLM & MLOPS<br> - 📫 How to reach me **celikyemree@gmail.com**
+🔭 I’m currently working on AI & ML<br>🌱 I’m currently learning NLP-LLM & MLOPS<br> 📫 How to reach me **celikyemree@gmail.com** <br>
 For More: [bento.me/yemce](https://bento.me/yemce)
 
 
